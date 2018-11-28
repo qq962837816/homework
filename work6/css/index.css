@@ -1,0 +1,206 @@
+    *{margin: 0;padding: 0;}
+    .header{
+        background:white;
+        line-height: 25px;
+    }
+    .div1{
+        display: flex;
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .img1{
+        margin-top: 10px;
+        width: 40px;
+        height: 40px;
+        background: #f56600;
+    }
+    .div2{
+        margin-top: 5px;
+        margin-left: 20px;
+        
+    }
+    .p0{
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .p1{
+        font-size: 10px;
+    }
+    .img2{      
+        width: 1350px;
+        height: 400px;
+        
+    }
+    .login{
+        width: 280px;
+        height: 365px;
+        background: white; 
+        position: absolute;
+        top: 20px;
+        left: 800px;
+    }
+    .back{
+        
+        position: relative;
+    }
+    .div3{
+        width: 220px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 60px;
+        display: flex;
+
+    }
+    .h1{
+        cursor: pointer;/*光标移上去变手型*/
+        color: #f56600;
+    }
+    .line{
+        margin-left: 30px;
+    }
+    .h2{
+        cursor: pointer;
+        margin-left: 30px;
+    }
+    .id{
+        margin-top: 10px;
+        width: 260px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .inputid{
+        width: 240px;
+        height: 30px;
+    }
+    .pass{
+        margin-top: 10px;
+        width: 260px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .password{
+        width: 240px;
+        height: 30px;
+    }
+    .div4{
+        margin-top: 10px;
+        width: 260px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .btn{
+        cursor: pointer;
+        border: none;
+        background: #f56600;
+        width: 240px;
+        height: 40px;
+    }
+    .div5{
+        
+        width: 240px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+        
+        
+    }
+    .div6{
+        
+        width: 190px;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        
+        
+    }
+    .h4,.h5,.line1{
+        margin-left: 10px;
+        
+        line-height: 20px;
+        font-size: 10px;
+    }
+    .h4{
+        cursor: pointer;
+        margin-right: 10px;
+    }
+    .h5{
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .h4:hover{
+        color: blue;
+    }
+    .h5:hover{
+        color: blue;
+    }
+    .footer{
+        width: 240px;
+        height: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        /* border: 1px solid #333; */
+        margin-top: 60px;
+        text-align: center;
+        position: relative;
+    }
+    .qita{
+        text-align: center;
+    } 
+    .qita .left,.right{
+        position:absolute;
+        display: block;
+        width:82px;
+        height:1px;
+        background:grey;
+        top:15%
+    }
+    .p2{
+        color: grey;
+        font-size: 10px;
+    }
+    .right{
+        right: 0;
+    }
+    .div7{
+        width: 180px;
+        
+        margin-top: 15px;
+        display: flex;
+        justify-content: space-between;
+        margin-right: auto;
+        margin-left: auto;
+        
+    }
+    .div7>p{
+        font-size: 25px;
+    }
+    .iconfont{
+        
+        cursor: pointer;
+    }
+    .foot{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+        width: 700px;
+        height: 110px;
+        /* border: 1px solid #333; */
+       
+    }
+    .zi{
+        width: 300px;
+        margin-right: auto;
+        margin-left: auto;
+        display: flex;
+    }
+    .p3,.p4{
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        font-size: 10px;
+        color: #c1c1c1;
+    }
